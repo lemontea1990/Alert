@@ -1,4 +1,7 @@
-﻿namespace Alert
+﻿/**
+ * Display a full screen message
+ */
+namespace Alert
 {
     using System;
     using System.Windows.Forms;
